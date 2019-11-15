@@ -1,0 +1,20 @@
+hikers:
+  - speed: 100
+    bridge: 0
+  - speed: 50
+    bridge: 0
+  - speed: 20
+    bridge: 0
+  - speed: 10
+    bridge: 0
+  - speed: 2.5
+    bridge: 1
+  - speed: 25
+    bridge: 2
+  - speed: 15
+    bridge: 2
+    
+bridges:
+  - length: 100
+  - length: 250
+  - length: 150
